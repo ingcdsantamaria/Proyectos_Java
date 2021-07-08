@@ -22,7 +22,7 @@ public class ejercicio6 {
                     else{
                         if(sex == 'M' || sex == 'm'){
                             h1 = h*100;
-                            pi = h-110;
+                            pi = h1-110;
                         JOptionPane.showMessageDialog(null, "Su genero es femenino su altura es: " + h + "m Su peso ideal es de: " + pi, "PESO IDEAL", JOptionPane.INFORMATION_MESSAGE);
                         }
                         else{
