@@ -4,7 +4,7 @@ public class ejercicio8 {
     public ejercicio8(){
 
     }
-    public static void numero8() {
+    public void numero8() {
         int opc;
         char m1,m2;
         String n1,n2;

@@ -4,7 +4,7 @@ public class ejercicio3 {
     public ejercicio3(){
 
     }
-    public static void numero3() {
+    public void numero3() {
         int opc;
         float nht, sueldo;
         do{

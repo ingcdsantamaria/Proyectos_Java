@@ -4,7 +4,7 @@ public class ejercicio10 {
     public ejercicio10(){
 
     }
-    public static void numero10() {
+    public void numero10() {
         int opc,n,i,a,b,c;
         do{
             opc = Integer.parseInt(JOptionPane.showInputDialog(null, "LEA CON ATENCION Y SELECCIONE LA OPCION QUE DESEA\n \t 1) Desea saber la serie de fibonacci?\n \t 2) Precione \"2\" para volver al menu anterior"));

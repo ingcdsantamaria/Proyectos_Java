@@ -4,7 +4,7 @@ public class ejercicio7 {
     public ejercicio7(){
 
     }
-    public static void numero7() {
+    public void numero7() {
         int opc,n,i,a;
         char n1;
         do{

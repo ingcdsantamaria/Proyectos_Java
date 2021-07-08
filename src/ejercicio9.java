@@ -4,7 +4,7 @@ public class ejercicio9 {
     public ejercicio9(){
 
     }
-    public static void numero9() {
+    public void numero9() {
         int opc,e,s;
         double suel;
         String n;

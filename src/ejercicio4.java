@@ -4,7 +4,7 @@ public class ejercicio4 {
     public ejercicio4(){
 
     }
-    public static void numero4() {
+    public void numero4() {
         int opc,n,i,result;
         do{
             opc = Integer.parseInt(JOptionPane.showInputDialog(null, "LEA CON ATENCION Y SELECCIONE LA OPCION QUE DESEA\n \t 1) Desea saber la tabla de multiplicar?\n \t 2) Precione \"2\" para volver al menu anterior"));

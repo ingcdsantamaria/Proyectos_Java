@@ -4,7 +4,7 @@ public class ejercicio5 {
     public ejercicio5(){
 
     }
-    public static void numero5() {
+    public void numero5() {
         int opc,n,i,n1;
         do{
             opc = Integer.parseInt(JOptionPane.showInputDialog(null, "LEA CON ATENCION Y SELECCIONE LA OPCION QUE DESEA\n \t 1) Desea jugar a adivinar el numero?\n \t 2) Precione \"2\" para volver al menu anterior"));

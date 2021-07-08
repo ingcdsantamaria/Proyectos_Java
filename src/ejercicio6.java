@@ -4,7 +4,7 @@ public class ejercicio6 {
     public ejercicio6(){
 
     }
-    public static void numero6() {
+    public void numero6() {
         int opc;
         char sex;
         float h,h1,pi;

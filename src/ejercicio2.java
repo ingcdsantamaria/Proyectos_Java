@@ -4,7 +4,7 @@ public class ejercicio2 {
     public ejercicio2 (){
 
     }
-    public static void numero2() {
+    public void numero2() {
         int opc;
         float prom,eva1,eva2,eva3;
         String nom;
